@@ -10,3 +10,7 @@
 function sayHi() 
 {console.log("Hello, this is my first function!");}
 sayHi();
+
+
+const friends = ["Mango", "Kiwi"];
+console.table(friends);
